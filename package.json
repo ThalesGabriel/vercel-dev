@@ -1,0 +1,17 @@
+{
+  "name": "sefaz-qrcode-reader",
+  "version": "1.0.0",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "jimp": "^0.22.10",
+    "next": "latest",
+    "puppeteer": "^21.3.8",
+    "qrcode-reader": "^1.0.5",
+    "react": "latest",
+    "react-dom": "latest"
+  }
+}
