@@ -9,6 +9,7 @@
   "dependencies": {
     "jimp": "^1.6.0",
     "next": "latest",
+    "node-fetch": "^3.3.2",
     "puppeteer": "^24.8.1",
     "qrcode-reader": "^1.0.4",
     "react": "latest",
