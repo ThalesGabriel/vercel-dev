@@ -7,10 +7,10 @@
     "start": "next start"
   },
   "dependencies": {
-    "jimp": "^0.22.10",
+    "jimp": "^1.6.0",
     "next": "latest",
-    "puppeteer": "^21.3.8",
-    "qrcode-reader": "^1.0.5",
+    "puppeteer": "^24.8.1",
+    "qrcode-reader": "^1.0.4",
     "react": "latest",
     "react-dom": "latest"
   }
